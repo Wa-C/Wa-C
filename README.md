@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Student, and Debater!!
 
-- 🔭 I Looking for a job as a Front End Developer.
+
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate with other content creators
 
