@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Wa-C.com&style=for-the-badge&url=https%3A%2F%2FWa-C.com)](https://syed-wassi-ul-haque.web.app/)
 
 
-## I'm a Developer, Student, and Debater!!
+## Machine Learning Engineer || MLOps || MERN Stack Developer
 
 
 - 🌱 I’m currently learning AI
