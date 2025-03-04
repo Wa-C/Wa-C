@@ -3,7 +3,7 @@
 
 
 
-## Machine Learning Engineer || MLOps || MERN Stack Developer
+## AI/ML Engineer || MLOps || MERN Stack Developer
 
 
 - 🌱 I’m currently learning AI
