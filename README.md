@@ -53,6 +53,5 @@
 </details>
 
 [website]: https://yoursmart-ai.com
-[facebook]: https://www.facebook.com/wassi.ulhaque/
-[linkedin]: https://www.linkedin.com/in/syedwassiulhaque-686195179/
+[linkedin]: https://www.linkedin.com/in/syedwassiulhaque
 
