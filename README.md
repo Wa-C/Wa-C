@@ -1,57 +1,134 @@
-### Hi there, I'm Wassi  👋
+Here’s a much more modern, professional, AI-engineer-focused GitHub profile README that reflects your current stack and experience level.
 
+# Hi there, I'm Wassi 👋
 
+## AI Engineer | Agentic AI Systems | MLOps | Full-Stack Developer
 
+I'm an AI engineer focused on building scalable AI systems, autonomous agents, LLM infrastructure, and production-grade cloud applications. My work combines modern AI engineering with robust backend architecture, cloud deployment, and performance optimization.
 
-## AI/ML Engineer || MLOps || MERN Stack Developer
+I enjoy working on:
 
+* Agentic AI systems
+* Multi-agent orchestration
+* RAG pipelines
+* LLM infrastructure
+* AI automation
+* MLOps & deployment
+* Cloud-native applications
+* High-performance backend systems
 
-- 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate with other content creators
+Currently building AI-powered platforms using modern cloud and AI stacks.
 
+---
 
+## 🚀 Current Tech Stack
 
+### AI / Machine Learning
 
-### Connect with me:
+* Python
+* PyTorch
+* Transformers
+* LangChain
+* LangGraph
+* Claude SDK
+* OpenAI API
+* Anthropic API
+* RAG Pipelines
+* Vector Databases
+* Semantic Search
+* Embeddings
+* AI Agents
+* MCP Servers
 
-[<img align="left" alt="Wa-C.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+### Backend & Infrastructure
 
-[<img align="left" alt="Wa-C | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+* Node.js
+* FastAPI
+* Express.js
+* PostgreSQL
+* Supabase
+* Redis
+* GraphQL
+* REST APIs
+* WebSockets
+* DuckDB
+* Docker
+* Nginx
 
+### Cloud & DevOps
 
-<br />
+* Azure
+* Azure Container Apps
+* Azure Container Registry
+* Cloudflare
+* GitHub Actions
+* CI/CD
+* Linux
+* Terraform
+* Monitoring & Observability
 
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />] 
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />] 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />] 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />] 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />] 
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />] 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />] 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] 
+### Frontend
 
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Zustand
+* Framer Motion
 
-<br />
-<br />
+---
 
+## 🧠 Areas of Interest
 
+* Autonomous AI systems
+* AI security & safety
+* Multi-agent workflows
+* AI infrastructure optimization
+* Semantic retrieval systems
+* Knowledge graphs & ontologies
+* Distributed systems
+* Production-grade SaaS architecture
+* AI performance engineering
 
-</details>
+---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## 🌍 Connect With Me
 
-  <img align="left" alt="Wa-C's GitHub Stats" src="https://github-readme-stats.Wa-C.vercel.app/api?username=Wa-C&show_icons=true&hide_border=true" />
+* 🌐 Website: [https://yoursmart-ai.com](https://yoursmart-ai.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/syedwassiulhaque](https://www.linkedin.com/in/syedwassiulhaque)
 
-</details>
+---
 
-[website]: https://yoursmart-ai.com
-[linkedin]: https://www.linkedin.com/in/syedwassiulhaque
+## ⚡ Current Focus
 
+* Building scalable AI agent platforms
+* Optimizing LLM workflows and inference pipelines
+* AI infrastructure and cloud-native deployment
+* Production-grade security and observability
+* Enterprise AI architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wa-C&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wa-C&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,azure,linux,git,github,graphql,tailwind,tensorflow,pytorch,vscode" />
+</p>
+
+---
+
+## 📌 Philosophy
+
+> Build AI systems that are scalable, secure, observable, and production-ready — not just demos.
