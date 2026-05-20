@@ -102,13 +102,14 @@ I enjoy solving difficult engineering problems involving:
 ## Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,cloudflare,githubactions,terraform,docker,kubernetes,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,githubactions,terraform,docker,kubernetes,bash,linux" />
 </p>
 
 - Azure Container Apps
 - Azure Container Registry
-- CI/CD Pipelines
+- AWS
 - Cloudflare
+- CI/CD Pipelines
 - Infrastructure Security
 - Monitoring & Observability
 - Containerized Deployments
